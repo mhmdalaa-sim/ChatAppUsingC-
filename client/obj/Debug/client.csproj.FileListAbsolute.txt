@@ -1,0 +1,11 @@
+E:\C#\client\bin\Debug\client.exe.config
+E:\C#\client\bin\Debug\client.exe
+E:\C#\client\bin\Debug\client.pdb
+E:\C#\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\C#\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\C#\client\obj\Debug\client.Form1.resources
+E:\C#\client\obj\Debug\client.Properties.Resources.resources
+E:\C#\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\C#\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\C#\client\obj\Debug\client.exe
+E:\C#\client\obj\Debug\client.pdb
